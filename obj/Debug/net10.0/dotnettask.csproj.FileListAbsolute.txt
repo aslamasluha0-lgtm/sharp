@@ -1,0 +1,14 @@
+/Users/admin/Desktop/dotnettask/bin/Debug/net10.0/dotnettask
+/Users/admin/Desktop/dotnettask/bin/Debug/net10.0/dotnettask.deps.json
+/Users/admin/Desktop/dotnettask/bin/Debug/net10.0/dotnettask.runtimeconfig.json
+/Users/admin/Desktop/dotnettask/bin/Debug/net10.0/dotnettask.dll
+/Users/admin/Desktop/dotnettask/bin/Debug/net10.0/dotnettask.pdb
+/Users/admin/Desktop/dotnettask/obj/Debug/net10.0/dotnettask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/dotnettask/obj/Debug/net10.0/dotnettask.AssemblyInfoInputs.cache
+/Users/admin/Desktop/dotnettask/obj/Debug/net10.0/dotnettask.AssemblyInfo.cs
+/Users/admin/Desktop/dotnettask/obj/Debug/net10.0/dotnettask.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/dotnettask/obj/Debug/net10.0/dotnettask.dll
+/Users/admin/Desktop/dotnettask/obj/Debug/net10.0/refint/dotnettask.dll
+/Users/admin/Desktop/dotnettask/obj/Debug/net10.0/dotnettask.pdb
+/Users/admin/Desktop/dotnettask/obj/Debug/net10.0/dotnettask.genruntimeconfig.cache
+/Users/admin/Desktop/dotnettask/obj/Debug/net10.0/ref/dotnettask.dll
